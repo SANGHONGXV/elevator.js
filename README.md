@@ -1,3 +1,6 @@
+
+一个 back to top 返回顶部的插件。如他的名字一样，网页在返回顶部过程中像电梯向上运行，当页面返回到顶部时，会有电梯“到达”的提示音。叮~页面已到达顶部
+![elevator](https://hellogithub.cn-bj.ufileos.com/hellogithub/51/img/elevator.gif) 
 # elevator.js
 Finally, a "back to top" button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.
 
